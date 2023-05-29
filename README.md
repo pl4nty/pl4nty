@@ -1,5 +1,5 @@
 Sometimes I build cool things, and if I share them, they'll end up here! Current projects:
-* Iterating on [my Kubernetes homelab](https://github.com/pl4nty/lab-infra] - contributing upstream and experimenting with Windows/ARM
+* Iterating on [my Kubernetes homelab](https://github.com/pl4nty/lab-infra) - contributing upstream and experimenting with Windows/ARM
 * Architecting upcoming CTFs - CTFd, k8s, etc
 * Maintaining https://timetable.cssa.club/, 1K monthly users as of 2023 :)
 
